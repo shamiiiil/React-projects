@@ -1,2 +1,2 @@
 # React-projects
-the projects I have worked with my teamates
+the projects I have worked with my teammates
